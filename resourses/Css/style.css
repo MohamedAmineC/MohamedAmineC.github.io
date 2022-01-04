@@ -1,0 +1,38 @@
+*{
+    padding: 20px;
+}
+#main-container{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+h1{
+    font-weight: normal;
+    font-size: 50px;
+    margin:20px;
+}
+h2{
+    font-weight: 300;
+    font-size: 42px;
+    margin:20px;
+}
+a{
+    display: block;
+    color: aquamarine;
+    font-size: 16px;
+    margin:20px;
+}
+.img-container{
+    margin: 20px;
+}
+p{
+    font-size: 21px;
+    color: Gray;
+    margin:20px;
+}
+footer{
+    text-align: right;;
+}
